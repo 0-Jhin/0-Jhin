@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Java Spring.
+- 🌱 I’m currently learning Java Spring.<br>
 Java Spring 백엔드를 공부하는 컴퓨터학부 학생입니다.
 
-- 🔭 I’m interested in mobile programming, android kotlin.
+- 🔭 I’m interested in mobile programming, android kotlin.<br>
 모바일 프로그래밍에도 관심이 있습니다.
   
 * * *
