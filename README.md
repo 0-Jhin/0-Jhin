@@ -16,7 +16,7 @@ java, python
 
 ## Project
 |Period|Title|Description|Experience|Tech Stack|
-|:------|:---|:---|:---|:---|
+|:------|:-----|:-----|:-----|:-----|
 |2025.02 ~ 진행중|척척학사| | BE 팀원 | |
 |2024.05 ~ 2025.01|sslaw|법률 문제를 스스로 해결할 수 있도록 도움을 제공하는 법률 상담 AI 서비스|BE 팀원|Java17, SpringBoot3.0, Spring Data JPA, Spring Security, OAuth 2.0, JWT, MySQL, Redis, WebSocket, AWS(EC2, RDS, Route53, ELB ...)|
 
